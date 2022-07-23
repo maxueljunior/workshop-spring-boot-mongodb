@@ -1,8 +1,5 @@
 package com.maxueljunior.workshopmongo.resources;
 
-import java.security.Provider.Service;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
